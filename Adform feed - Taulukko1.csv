@@ -1,2 +1,2 @@
 product_id,product_name,product_image,product_deeplink
-12345,Awesome product,https://kauppa.dieta.fi/catalog/product/view/id/57606,https://raw.githubusercontent.com/TaneliAvidly/Adform_feed/main/Adform%20feed%20-%20Taulukko1.csv
+12345,Awesome product,https://res.cloudinary.com/dpsdqbav1/image/upload/c_limit,dpr_2.0,f_auto,h_525,q_80,w_700/v1/media/catalog/product/g/a/gallery/40142.jpg?_i=AB,https://res.cloudinary.com/dpsdqbav1/image/upload/c_limit,dpr_2.0,f_auto,h_525,q_80,w_700/v1/media/catalog/product/g/a/gallery/40142.jpg?_i=AB
